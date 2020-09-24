@@ -1,2 +1,2 @@
-# tfjs.regression-neural-network
+# tfjs.interactive-linear-regression-sgd
 Created with CodeSandbox
